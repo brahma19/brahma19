@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @brahma19
 - 👀 I’m interested in Data Engineering and Machine Learning .
-- 🌱 I’m currently learning EDA and ML techniques
 - 📫 you can reach me @ backbenchergatgmaildotcom
 
 <!---
